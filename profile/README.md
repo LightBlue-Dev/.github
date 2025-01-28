@@ -8,7 +8,8 @@ Bağlantılar:
 
 [Geliştirici kaynakları (Yapım aşamasında)](https://light-blue.web.app/developers/)
 
-Kullandığımız teknolojiler:
+Teknoloji yığını:
+
 Mobil: [React Native](https://reactnative.dev/), [Expo](https://expo.dev/)
 
 Web: [React](https://react.dev/), [Vite](https://vite.dev/), basit sitelerde vanilla HTML/CSS/JS
